@@ -1,0 +1,48 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+    border-right: 1px solid #bbb;
+}
+
+a {
+    padding: 8px;
+    display: block;
+    -webkit-text-fill-color: aliceblue;
+}
+
+li a {
+    display: block;
+    padding: 10px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: lightslategray;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+    float: left;
+}
+
+header {
+    display: block;
+    font-size: 60px;
+    color:rgb(245, 248, 247)
+}
+
+body {
+    background-color: rgb(108, 77, 129) ;
+    font-weight: 200;
+    font-style: oblique;
+}
