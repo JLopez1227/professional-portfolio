@@ -32,7 +32,8 @@ li a:hover {
 img {
     width: 400px;
     height: 400px;
-    float: left;
+    display: flex;
+    align-items: flex-end;
 }
 
 header {
@@ -45,4 +46,13 @@ body {
     background-color: rgb(108, 77, 129) ;
     font-weight: 200;
     font-style: oblique;
+}
+
+div {
+    text-align: bottom;
+    color:rgb(245, 248, 247)
+}
+
+#Resume{
+    color:rgb(245, 248, 247)
 }
