@@ -29,13 +29,6 @@ li a:hover {
     background-color: lightslategray;
 }
 
-img {
-    width: 400px;
-    height: 400px;
-    display: flex;
-    align-items: flex-end;
-}
-
 header {
     display: block;
     font-size: 60px;
@@ -54,5 +47,24 @@ div {
 }
 
 #Resume{
-    color:rgb(245, 248, 247)
+    color:rgb(245, 248, 247);
+    text-align: center
+
+}
+
+#ComingSoon {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#AboutMe {
+    text-align: center;
+    font-weight: 300;
+}
+
+#Contact{
+    text-align: center;
+    font-weight: 300;
 }
