@@ -7,4 +7,4 @@
  I used CSS to style my portfolio giving it a colored background, a fancy font to make it look professional, as well as trying the portfolio look as best as it can.
 
 ####
- Link to deployed application: 
+ Link to deployed application: [https://jlopez1227.github.io/professional-portfolio/]
